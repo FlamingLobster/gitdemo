@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+a
+=======
 public static void main() {
   //this is the main method of the class, ...
   init():
@@ -8,4 +11,4 @@ public static void main() {
   
 
 }
-
+>>>>>>> 045dee2d945719f919f2aacaa8524d5b83aaac70
